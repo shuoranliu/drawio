@@ -1,1 +1,71 @@
-<mxfile host="www.draw.io" modified="2020-04-05T20:41:18.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.2" etag="UkGfVuWUwNzfVdsQQHA-" type="github"><diagram id="QGAycXqkOuOecd1l_g36">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-05T20:57:05.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="jz6P2D9mrc_3JANvwJfH" version="12.9.2" type="github">
+  <diagram id="QGAycXqkOuOecd1l_g36" name="Page-1">
+    <mxGraphModel dx="815" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="REONFSkynafb4JzmAlUI-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="REONFSkynafb4JzmAlUI-5" target="REONFSkynafb4JzmAlUI-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-5" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Partition 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Inode&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="REONFSkynafb4JzmAlUI-10" target="REONFSkynafb4JzmAlUI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-10" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Partition 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="REONFSkynafb4JzmAlUI-12" target="REONFSkynafb4JzmAlUI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="REONFSkynafb4JzmAlUI-12" target="REONFSkynafb4JzmAlUI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-12" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Client&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;create dentry (name, ino, type)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="85" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-24" value="&lt;font style=&quot;font-size: 16px&quot;&gt;create dentry response&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-27" value="&lt;font style=&quot;font-size: 16px&quot;&gt;create inode&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="REONFSkynafb4JzmAlUI-28" value="&lt;font style=&quot;font-size: 16px&quot;&gt;ino&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
